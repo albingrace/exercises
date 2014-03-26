@@ -1,0 +1,34 @@
+Getting corpus from documents...
+top 20% stop words are ignored and top 2000 terms are considered...
+done in 1.525s.
+TF-IDF weighting...
+done in 1.550s.
+
+
+Fitting the Negative Matrix Factorization model... this will take about 1 to 2 minutes...
+done in 73.775s.
+
+10 topics are selected, they are:
+Topic #1:
+free shipping orders over 99
+Topic #2:
+link text homepage general redirect
+Topic #3:
+books business photo world children
+Topic #4:
+code off coupon 10 use
+Topic #5:
+save up off 50 sale
+Topic #6:
+deals get products best great
+Topic #7:
+xd antivirus cleanup fast geek
+Topic #8:
+tickets ticketnetwork buy concert memorabilia
+Topic #9:
+this is sep promotion 13
+Topic #10:
+new now arrivals york available
+
+Grouping using K means, K=10...
+10 groups have been formed as "labels"
