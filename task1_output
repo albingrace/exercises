@@ -1,0 +1,14 @@
+Getting corpus from documents...
+top 10% stop words are ignored and top 5000 terms are considered...
+done in 1.587s.
+
+The most popular terms are:
+['free']
+
+The least popular terms are:
+['11a', 'leaf', 'genius', 'bargainstation', 'inspirational', 'bare', 'grande', 'shops', 'noise', 'zenmed', 'permanent', 'dan', 'ansi', 'claim', 'deck', 'permit', 'registrations', '629', 'sonnenbrille', 'humor', 'voted', 'delivering', 'centers', 'beautifully', 'devil', 'placemat', 'shoeboxed', 'netupdate', '84', '86', 'asavings', 'canvasondemand', 'georgia', '67', 'sympathy', 'casio', 'tage', 'ransomware', 'plenty', 'tourist', 'qualityhealth', 'facilities', 'visitez', 'upcoming', 'tailgating', 'thrilling', 'pile', 'speech', 'whats', 'softeners', 'stumps', 'citysights', 'launch', 'cisco', 'peripherals', 'ibotnet', 'government', 'infinity', 'icejerseys', 'zacks', 'contre', 'dehumidifiers', 'stadium', 'etihad', 'panoramic', 'deeply', 'ted', 'curve', 'poised', 'cords', 'alienware', 'evergreen', 'census', 'chuck', 'exhibits', 'esd', 'handbag', 'criminal', 'cardinals', 'forward', 'utilized', 'airportrentalcars', 'ford', 'pins', 'claire', 'mathematics', 'voicemail', 'purity', 'rain', 'infrared', 'celebration', 'funnel', 'engage', 'pant', 'infections', 'teas', 'listen', 'cake', 'gltig', 'gamesplanet', 'qualified', 'littmann', 'tc', 'widescreen', 'snowmobile', 'epic', 'gauntlet', 'enough', 'tunes', 'attachments', 'ratings', 'grey', 'mdicaments', 'maternity', 'develop', 'hybrids', 'spotmau', 'macintosh', 'versand', 'pier', 'pilates', 'installed']
+
+Number of Guitar types by roughly computing: 74
+
+Number of Guitar types by filtering: 35
+They are: ['flatpicking', 'classical', 'four', 'gypsy', 'gear', 'lessons', 'stands', 'artistworks', 'bassman', 'boutique', 'homepage', 'week', 'category', 'christian', 'electric', 'exclusives', 'jazz', 'hundreds', 'guitar', 'mallets', 'rebates', 'hd', 'center', 'woofers', 'fingerstyle', 'country', 'martin', 'sale', 'arrivals', 'products', 'rock', 'cards', 'acoustic', 'mic', 'flatpick']
