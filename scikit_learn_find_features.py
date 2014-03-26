@@ -306,7 +306,7 @@ class L1LinearSVC(LinearSVC):
 print('=' * 80)
 print("LinearSVC with L1-based feature selection")
 results.append(benchmark(L1LinearSVC()))
-
+ 
 
 # make some plots
 
