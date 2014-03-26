@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 21 22:16:19 2014
 
-@author: Albingrace
+@author: Qian Wan
 """
 import re
 from gensim import corpora
