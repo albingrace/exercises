@@ -1,0 +1,29 @@
+Getting the corpus from good_deals and bad_deals...
+top 10% stop words are ignored...
+done in 0.010s.
+
+There are 58 new deals
+
+KNNClassifier: correct classification rate is 54/58
+While there are 0 predicted coupon-required deals...
+
+
+SVMClassifier: correct classification rate is 54/58
+While there are 0 predicted coupon-required deals...
+
+
+RidgeClassifier: correct classification rate is 54/58
+While there are 0 predicted coupon-required deals...
+
+
+MultinomialNBClassifier: correct classification rate is 56/58
+While there are 4 predicted coupon-required deals...
+
+They are:
+Save $25 On Orders Over $100! The latest styles of rings, earrings, necklaces, bracelets, diamond jewelry and more at MyJewelryBox.com! Use Coupon Code: 25OFF
+
+Nuance ES - Nueva versin - Dragon NaturallySpeaking 12 Home - Ahorre un 20%. Coupon - 'DNS12OFFER'
+
+Harbor Freight Super Coupons: Save 30% to 60% Off!&#xd;
+
+10% off. Use promo code UNCORKED10. Exp 12/31/13.
