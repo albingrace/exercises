@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 22 16:07:31 2014
 
-@author: Albingrace
+@author: Qian Wan
 """
 
 from time import time
